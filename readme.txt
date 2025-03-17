@@ -1,0 +1,1 @@
+First, run the code in the train folder for normal training. If the training results are not satisfactory, use the model trained during the train process to run the code in the pretrain folder . The molar value network structure can be appropriately adjusted.
